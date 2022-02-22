@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(80, 79, 79);
+}
+
+.main {
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: -8px;
+    margin-bottom: 0px;
+    width: 80%;
+    height: 100%;
+}
+
+.main .banner {
+    padding-left: 0%;
+}
+
+.main .content {
+    padding-left: 5%;
+    padding-bottom: 25%;
+}
